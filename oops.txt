@@ -11,3 +11,5 @@ public class AddTwoNumbers {
 
 
 hi hello world
+hi how are you 
+how do you do
